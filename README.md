@@ -1,6 +1,6 @@
 # 🧬 Autism Prediction using Genetic Algorithm and Fuzzy Tsukamoto
 
-![Banner](assets/autism-genetic-fuzzy-banner.png)
+![Banner](assets/banner.png)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Fuzzy Logic](https://img.shields.io/badge/Fuzzy_Tsukamoto-inference-blue?style=flat)
